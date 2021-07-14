@@ -1,5 +1,5 @@
 # capital
-Capital Brokerage is an Insurance broker.
+Capital Brokerage is an Insurance broker./n
 this app is for thier clients.
 the client can do:
 1- show the insurance policies.
