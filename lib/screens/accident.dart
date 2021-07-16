@@ -74,8 +74,8 @@ var location = '';
   sendMail() async {
 
 
-    String username = 'mazenoss@gmail.com';
-    String password = 'Newm@zen1';
+    String username = 'mail@example.com';
+    String password = 'Enter your password';
 
     final smtpServer = gmail(username, password);
 
